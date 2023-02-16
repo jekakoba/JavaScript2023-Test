@@ -7,7 +7,7 @@ body {
 }
 
 [class*="__container"] {
-	max-width: 1300px;
+	max-width: 1200px;
 	padding: 0 15px;
 	margin: 0 auto;
 }
@@ -48,7 +48,7 @@ body {
 	padding: 50px;
 	background-color: rgb(31, 34, 63);
 	height: 100%;
-	border-right: 1px solid green;
+	border-right: 1px solid rgb(4, 40, 4);
 }
 
 @media (max-width:767.98px) {
@@ -188,7 +188,8 @@ tbody tr th {
 .page__title {
 	font-size: 25px;
 	text-align: center;
-	font-weight: 600;
+	font-weight: 800;
+	color: blue;
 
 }
 
